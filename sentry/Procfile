@@ -1,0 +1,3 @@
+web: /entrypoint.sh run web
+worker: /entrypoint.sh run worker
+cron: /entrypoint.sh run cron
